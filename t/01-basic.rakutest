@@ -1,0 +1,9 @@
+use Test;
+use uniprop;
+
+plan 3;
+
+ok ::("&uniprop-$_"), "did we get &uniprop-$_"
+  for <int bool str>;
+
+# vim: expandtab shiftwidth=4

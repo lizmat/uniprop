@@ -1,0 +1,26 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provide uniprop- subs",
+  "license": "Artistic-2.0",
+  "name": "uniprop",
+  "perl": "6.d",
+  "provides": {
+    "uniprop": "lib/uniprop.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/lizmat/uniprop.git",
+  "tags": [
+    "UNICODE"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
